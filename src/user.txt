@@ -1,0 +1,2 @@
+marque1 nom1 id1 01 01 2015 1,000000 1,000000 1,000000 1,000000 Humidite En_marche 
+marque2 nom2 id2 04 04 2024 2,000000 2,000000 1,000000 1,000000 Temperature En_panne 
